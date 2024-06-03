@@ -1,0 +1,13 @@
+package com.lht.lhtutils;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class LhtutilsApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(LhtutilsApplication.class, args);
+    }
+
+}
